@@ -1,0 +1,21 @@
+html,
+body {
+    background-color: rgb(190, 205, 214);
+}
+
+.span5 {
+    border: 1px solid rgb(151, 164, 172);
+    box-shadow: 1px 1px rgb(141, 141, 141);
+    border-radius: 8px;
+    padding: 5px 5px 50px 5px;
+}
+
+.accordion-heading {
+    background-color: rgb(223, 223, 223);
+}
+
+.accordion-group {
+    background-color: rgb(240, 240, 240);
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
